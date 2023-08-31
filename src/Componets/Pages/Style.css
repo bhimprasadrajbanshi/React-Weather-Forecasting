@@ -1,0 +1,9 @@
+body{
+background-color: #27516a;
+}
+.mainbox{
+    width: 800px;
+    height: 550px;
+    background-color: #305770;
+    margin: auto;
+}
