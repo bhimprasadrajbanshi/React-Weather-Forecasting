@@ -10,15 +10,26 @@ function Home() {
     <div className="title">
       <h1>WEATHER FORCASTING</h1>
     </div>
+    <input type="text" className='inputfield' placeholder='Enter City' />
       <div className="innerbox">
-        <div className="location">
-          <strong> 
+
+        <div className="location-item">
+
+         <div className="location">
+         <strong> 
           <p className='locName'>Nepal</p>
-          Setember 25, 2023</strong>
+           <i>Setember 25, 2023</i>
+          </strong>
+         </div>
+
+          <div  className="temperature">78 C</div>
         </div>
+
         <div className="weatherimage">
-          <img src="https://e7.pngegg.com/pngimages/517/940/png-clipart-cloud-rain-sunlight-weather-cloud-text-cloud.png" alt="" />
+          <i className="fa-sharp fa-solid fa-cloud-sun-rain fa-beat-fade fa-lg"></i>
         </div>
+
+      
         </div>
     </div>
     </div>

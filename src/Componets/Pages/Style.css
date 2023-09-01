@@ -28,4 +28,23 @@ body{
     font-size: 30px;
     font-weight: bolder;
     margin-bottom: 0px;
+    justify-content: space-between;
 }
+.fa-solid, .fas {
+    font-weight: 900;
+    font-size: 83px;
+    margin-top: 51px;
+  }
+.location-item{
+    display: flex;
+    justify-content: space-between;
+}
+.temperature {
+    font-size: 99px;
+  }
+  input{
+    margin: auto;
+    display: block;
+    size: 80px;
+    border-radius: 15px;
+  }
