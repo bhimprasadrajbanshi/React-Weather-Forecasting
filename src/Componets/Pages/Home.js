@@ -18,7 +18,7 @@ function Home() {
          <div className="location">
          <strong> 
           <p className='locName'>Nepal</p>
-           <i>Setember 25, 2023</i>
+           <i>September 25, 2023</i>
           </strong>
          </div>
 
