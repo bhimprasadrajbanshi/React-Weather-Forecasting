@@ -48,3 +48,9 @@ body{
     size: 80px;
     border-radius: 15px;
   }
+  .fa-solid.fa-magnifying-glass-location.iconsearch {
+    font-size: 24px;
+  }
+  button {
+    background: #503cc2;
+}

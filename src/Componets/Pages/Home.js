@@ -10,7 +10,12 @@ function Home() {
     <div className="title">
       <h1>WEATHER FORCASTING</h1>
     </div>
-    <input type="text" className='inputfield' placeholder='Enter City' />
+
+    <div>
+    <input type="text" className='inputfield' placeholder='Enter City' /> 
+    <button type='button'><i className="fa-solid fa-magnifying-glass-location iconsearch"></i></button>
+    </div>
+
       <div className="innerbox">
 
         <div className="location-item">
